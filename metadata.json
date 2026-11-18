@@ -1,0 +1,6 @@
+{
+  "name": "Kena Kata",
+  "description": "Single-vendor e-commerce platform for Bangladesh (BDT) with Rokomari-inspired discovery, AI recommendations, bKash/Nagad/COD payments, and owner Admin Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
